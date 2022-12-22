@@ -8,6 +8,15 @@
   <br>
   <br>
 
+<img src="./img/img.png">
+
+Making an NFT collection, to put it together with our <a href="https://github.com/gab0071/whitelist-nextjs">whitelist</a> project, an overview of our project:
+
+- There should only exist 20 Crypto Dev NFT's and each one of them should be unique.
+- User's should be able to mint only 1 NFT with one transaction.
+- Whitelisted users, should have a 5 min presale period before the actual sale where they are guaranteed 1 NFT per transaction.
+
+You can find all the information of the contract in <a href="https://goerli.etherscan.io/token/0x275bd0e60a275ce1be842cfb0f44baf2fad678dc">etherscan</a>
 
 <hr>
 <h2> Installing / Getting started </h2>
